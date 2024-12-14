@@ -92,7 +92,7 @@ label[for="new-task"] {
   display: block;
   margin: 0 0 20px;
 }
-#new-task {
+.new-task {
   width: 318px;
 }
 
@@ -132,7 +132,7 @@ label[for="new-task"] {
 }
 
 /* Completed */
-#completed-tasks .list__item-label {
+.completed-tasks .list__item-label {
   text-decoration: line-through;
   color: #888;
 }
